@@ -1,4 +1,4 @@
-# **CRUD de Imóveis**
+# 🏠 B&D Real Estate - Management System
 
 Um sistema web para gerenciamento de imóveis, desenvolvido em dupla como parte de um trabalho acadêmico com finalidade de avaliação para nota semestral. O projeto permite realizar operações CRUD (Criar, Deletar, Atualizar, Consultar por ID e Consultar todos) sobre imóveis, utilizando **Java** com Spring Boot no backend; e **HTML, CSS e JavaScript** no frontend além do Banco de Dados MySQL.
 
